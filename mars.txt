@@ -1,4 +1,5 @@
-Cold and dry, but everything is my favorite color
+Cold and dry, but everything is my favorite color.  Modifying the
+first line.
 The two moons may be a problem
 Changes for alpha/beta.
 Testing beta.
